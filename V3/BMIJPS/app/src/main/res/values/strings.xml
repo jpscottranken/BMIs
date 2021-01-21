@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI - JPS</string>
+    <string name="main_title">BMI Calculator</string>
+    <string name="heightTv">Height</string>
+    <string name="heightEtHint">Value Between 12 And 96</string>
+    <string name="weightTv">Weight</string>
+    <string name="weightEtHint">Value Between 1 And 777</string>
+    <string name="statsTvHint">BMI Stats Will Go Here</string>
+    <string name="calculateBtn">Calculate</string>
+    <string name="clearBtn">Clear</string>
+    <string name="statusIv">BMI Person Image</string>
+</resources>
